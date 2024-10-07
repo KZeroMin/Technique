@@ -10,7 +10,7 @@ namespace Technique
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Commit Test.");
         }
     }
 }
