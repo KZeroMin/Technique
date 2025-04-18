@@ -23,6 +23,7 @@ namespace FunctionalExtensions
             var customer = new Customer(name.Value, email.Value);
             var s = customer.Name;
             Console.WriteLine($"{s}");
+            Console.WriteLine("Branch Test");
         }
     }
 }
